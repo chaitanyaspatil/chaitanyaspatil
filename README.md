@@ -11,7 +11,7 @@ Based in Brisbane, Australia · M.S. UC San Diego · AWS ML Engineer Associate
 
 ## Featured projects
 
-**[gh-detective](https://github.com/chaitanyaspatil/gh-explorer)** - Agentic CLI that investigates any
+**[gh-explorer](https://github.com/chaitanyaspatil/gh-explorer)** - Agentic CLI that investigates any
 GitHub repo and produces cited answers. The agent decides which data sources to consult
 (README, commits, releases, issues, labels), adapts based on what it observes, and cites every
 claim. Built with LangChain v1, Claude Sonnet 4.6, and LangSmith. 
