@@ -1,6 +1,7 @@
 # Chaitanya Patil
 
 Currently building production GenAI systems (multi-agent platforms, RAG pipelines, LLM observability) for a Fortune 500 pharma client on AWS.
+
 Based in Brisbane, Australia · M.S. UC San Diego · AWS ML Engineer Associate
 
 ## What I'm currently building
